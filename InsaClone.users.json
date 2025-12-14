@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "693eb8d533044ac5d96f38d0"
+  },
+  "name": "Sahni",
+  "userName": "Sah",
+  "email": "csaumya210@gmail.com",
+  "password": "$2b$12$9c5d6wWYyW/6nz.8pkXwiO4ye0ag4I4w1uys26JgboZRT/z24oqX.",
+  "followers": [
+    {
+      "$oid": "693ebc2633044ac5d96f390b"
+    }
+  ],
+  "following": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "693ebc2633044ac5d96f390b"
+  },
+  "name": "Kirti Yadav",
+  "userName": "kirti",
+  "email": "test@example.com",
+  "password": "$2b$12$uY3orwNKnq5/qbBoAMGRveZV5yeRSk1qeMM8YDke.kIA7oKsTC86e",
+  "followers": [],
+  "following": [
+    {
+      "$oid": "693eb8d533044ac5d96f38d0"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "693ec5710228b8312597abc2"
+  },
+  "name": "Shefali",
+  "userName": "shef",
+  "email": "csaumya2100@gmail.com",
+  "password": "$2b$12$M3FShFej/Me372HWxAugQupgby.5P2vjubhNG05EUkdhdL5zyWQZu",
+  "followers": [],
+  "following": [],
+  "__v": 0
+}]
